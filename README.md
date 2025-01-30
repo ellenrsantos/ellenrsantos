@@ -1,6 +1,6 @@
 ## Hi there! 😊
 
-I'm a Data Analyst, B.Sc in Materials Science and I hold a Master's Degree in Materials Science and Engineering with a focus on Thermodynamic Simulation with ThermoCalc, Spray Forming, and Microstructural Characterization.
+I hold a Master's in Materials Engineering and have over 3 years of experience as a Data Scientist/Data Analyst. In this role, I specialize in analyzing complex datasets and implementing machine learning models to support data-driven business decisions. Programming in Python, SQL, and big data technologies, with a background in statistical analysis, predictive modeling, and data visualization. Skillful at translating data into strategic recommendations and fostering collaboration across cross-functional teams.
 
 - 🔭 I’m currently working as a Data Analyst/Data Scientist at Beegol. 
 - 📫 How to reach me: 📧 rsantos.ellen@outlook.com
